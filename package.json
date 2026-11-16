@@ -1,0 +1,9 @@
+{
+  "name": "jenkins-ec2-demo",
+  "version": "1.0.0",
+  "description": "Jenkins to EC2 deployment demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
